@@ -1,0 +1,306 @@
+{
+  "mirrorCommit": "fd527e6f4daf732fd814314d9257df5877b844bc",
+  "mapping": {
+    "file": "docs/model-source/FMA2Obj-4.3.tsv",
+    "sha256": "c3d16c891016da13447de2fc3241d05d92e8f9dc460e363233c03f420b935d4f"
+  },
+  "objects": [
+    {
+      "id": "FJ2817",
+      "file": "FJ2817.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2817_BP23957_FMA7202_Gallbladder.obj",
+      "sha256": "55efafa50cd18bad67f0fc364cfefcfbcf887a689705ad1f0a5ef0d742e18ebc",
+      "bytes": 144498,
+      "mirrorPath": "meshes/FJ2817_BP23957_FMA7202_Gallbladder.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2817_BP23957_FMA7202_Gallbladder.obj"
+    },
+    {
+      "id": "FJ3080",
+      "file": "FJ3080.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3080_BP23311_FMA14539_Cystic%20duct.obj",
+      "sha256": "d9ecd387c593ef6f466bc4d7dfd7af25f83db260202558ebdc5c83385569e494",
+      "bytes": 16652,
+      "mirrorPath": "meshes/FJ3080_BP23311_FMA14539_Cystic duct.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3080_BP23311_FMA14539_Cystic%20duct.obj"
+    },
+    {
+      "id": "FJ3079",
+      "file": "FJ3079.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3079_BP21345_FMA14668_Common%20hepatic%20duct.obj",
+      "sha256": "f1322aaaa89355511bb996947cf5e005389967c93c74ee18187464926a66c7be",
+      "bytes": 80439,
+      "mirrorPath": "meshes/FJ3079_BP21345_FMA14668_Common hepatic duct.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3079_BP21345_FMA14668_Common%20hepatic%20duct.obj"
+    },
+    {
+      "id": "FJ3123",
+      "file": "FJ3123.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3123_BP23145_FMA14669_Right%20hepatic%20duct.obj",
+      "sha256": "375bc17a4a942ebbecbf2010fe668808e36b79879220ca144c4a74366a15ffea",
+      "bytes": 12609,
+      "mirrorPath": "meshes/FJ3123_BP23145_FMA14669_Right hepatic duct.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3123_BP23145_FMA14669_Right%20hepatic%20duct.obj"
+    },
+    {
+      "id": "FJ3096",
+      "file": "FJ3096.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3096_BP23316_FMA14670_Left%20hepatic%20duct.obj",
+      "sha256": "29f6412e8645eb8b635198fc70a3f0b4a3d49dc1eb3a655591f8f34967efb129",
+      "bytes": 49627,
+      "mirrorPath": "meshes/FJ3096_BP23316_FMA14670_Left hepatic duct.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3096_BP23316_FMA14670_Left%20hepatic%20duct.obj"
+    },
+    {
+      "id": "FJ1883",
+      "file": "FJ1883.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1883_BP23221_FMA71889_Caudate%20lobe%20tributary%20of%20left%20hepatic%20biliary%20tree.obj",
+      "sha256": "7db8406e9d5a1f6264c50092314d4abf8f15b808277493347fe6f2ab7c13273a",
+      "bytes": 29006,
+      "mirrorPath": "meshes/FJ1883_BP23221_FMA71889_Caudate lobe tributary of left hepatic biliary tree.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1883_BP23221_FMA71889_Caudate%20lobe%20tributary%20of%20left%20hepatic%20biliary%20tree.obj"
+    },
+    {
+      "id": "FJ3071",
+      "file": "FJ3071.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3071_BP23050_FMA71867_Anterior%20superior%20tributary%20of%20right%20hepatic%20biliary%20tree.obj",
+      "sha256": "09c03a44ddb3bb5eab9fa59ded615f82ea13b6aabbfc397c42e28fb1b92d4ce5",
+      "bytes": 43243,
+      "mirrorPath": "meshes/FJ3071_BP23050_FMA71867_Anterior superior tributary of right hepatic biliary tree.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3071_BP23050_FMA71867_Anterior%20superior%20tributary%20of%20right%20hepatic%20biliary%20tree.obj"
+    },
+    {
+      "id": "FJ3072",
+      "file": "FJ3072.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3072_BP23979_FMA71868_Anterior%20inferior%20tributary%20of%20right%20hepatic%20biliary%20tree.obj",
+      "sha256": "5d2e7d2b012d8555121ac48b6769a44953e6dcd7e21098c008160e0a6ac2166b",
+      "bytes": 126531,
+      "mirrorPath": "meshes/FJ3072_BP23979_FMA71868_Anterior inferior tributary of right hepatic biliary tree.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3072_BP23979_FMA71868_Anterior%20inferior%20tributary%20of%20right%20hepatic%20biliary%20tree.obj"
+    },
+    {
+      "id": "FJ3088",
+      "file": "FJ3088.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3088_BP23985_FMA71887_Lateral%20superior%20tributary%20of%20left%20hepatic%20biliary%20tree.obj",
+      "sha256": "25543589e5df397d81677394479be13a3c2f0140bc6463bf876e69d0a94c6885",
+      "bytes": 38627,
+      "mirrorPath": "meshes/FJ3088_BP23985_FMA71887_Lateral superior tributary of left hepatic biliary tree.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3088_BP23985_FMA71887_Lateral%20superior%20tributary%20of%20left%20hepatic%20biliary%20tree.obj"
+    },
+    {
+      "id": "FJ3090",
+      "file": "FJ3090.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3090_BP23985_FMA71887_Lateral%20superior%20tributary%20of%20left%20hepatic%20biliary%20tree.obj",
+      "sha256": "4d0a6fc8288f8f46cdce74d1d0e14b2249b2be1d6b5fa4f792c3ba370c8f4440",
+      "bytes": 52610,
+      "mirrorPath": "meshes/FJ3090_BP23985_FMA71887_Lateral superior tributary of left hepatic biliary tree.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3090_BP23985_FMA71887_Lateral%20superior%20tributary%20of%20left%20hepatic%20biliary%20tree.obj"
+    },
+    {
+      "id": "FJ3089",
+      "file": "FJ3089.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3089_BP23105_FMA71888_Lateral%20inferior%20tributary%20of%20left%20hepatic%20biliary%20tree.obj",
+      "sha256": "4810c17eda40dd7a8a105ad8b5effd2c0bfc410f017656c3980bf303b3b32334",
+      "bytes": 44777,
+      "mirrorPath": "meshes/FJ3089_BP23105_FMA71888_Lateral inferior tributary of left hepatic biliary tree.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3089_BP23105_FMA71888_Lateral%20inferior%20tributary%20of%20left%20hepatic%20biliary%20tree.obj"
+    },
+    {
+      "id": "FJ3103",
+      "file": "FJ3103.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3103_BP23284_FMA71886_Medial%20inferior%20tributary%20of%20left%20hepatic%20biliary%20tree.obj",
+      "sha256": "686a902bccfa580583de960c666f15f5574835fe0b59d0dc7e18a20ecaaac01d",
+      "bytes": 45409,
+      "mirrorPath": "meshes/FJ3103_BP23284_FMA71886_Medial inferior tributary of left hepatic biliary tree.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3103_BP23284_FMA71886_Medial%20inferior%20tributary%20of%20left%20hepatic%20biliary%20tree.obj"
+    },
+    {
+      "id": "FJ3104",
+      "file": "FJ3104.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3104_BP23162_FMA71885_Medial%20superior%20tributary%20of%20left%20hepatic%20biliary%20tree.obj",
+      "sha256": "1d05af60b6da84549bcbcccea715a9b8e2b7ded6195e3d222d6d53d5e4d2fc2a",
+      "bytes": 36686,
+      "mirrorPath": "meshes/FJ3104_BP23162_FMA71885_Medial superior tributary of left hepatic biliary tree.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3104_BP23162_FMA71885_Medial%20superior%20tributary%20of%20left%20hepatic%20biliary%20tree.obj"
+    },
+    {
+      "id": "FJ3105",
+      "file": "FJ3105.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3105_BP23162_FMA71885_Medial%20superior%20tributary%20of%20left%20hepatic%20biliary%20tree.obj",
+      "sha256": "998dd34a09243a7380d960ae7651514dd36e8d7c3c3fbddbf9911b2dd64bac30",
+      "bytes": 36047,
+      "mirrorPath": "meshes/FJ3105_BP23162_FMA71885_Medial superior tributary of left hepatic biliary tree.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3105_BP23162_FMA71885_Medial%20superior%20tributary%20of%20left%20hepatic%20biliary%20tree.obj"
+    },
+    {
+      "id": "FJ3108",
+      "file": "FJ3108.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3108_BP23258_FMA71870_Posterior%20inferior%20tributary%20of%20right%20hepatic%20biliary%20tree.obj",
+      "sha256": "b1832b0e0af5643a3459f6f46bdee4c02a0fe84de19b35d86f3344d68e66a5d2",
+      "bytes": 55033,
+      "mirrorPath": "meshes/FJ3108_BP23258_FMA71870_Posterior inferior tributary of right hepatic biliary tree.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3108_BP23258_FMA71870_Posterior%20inferior%20tributary%20of%20right%20hepatic%20biliary%20tree.obj"
+    },
+    {
+      "id": "FJ3109",
+      "file": "FJ3109.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3109_BP23126_FMA71869_Posterior%20superior%20tributary%20of%20right%20hepatic%20biliary%20tree.obj",
+      "sha256": "ec5c690be0368b45d69b2e8cf1a97c1096b15b621887dea27e11c13d578f579e",
+      "bytes": 42120,
+      "mirrorPath": "meshes/FJ3109_BP23126_FMA71869_Posterior superior tributary of right hepatic biliary tree.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3109_BP23126_FMA71869_Posterior%20superior%20tributary%20of%20right%20hepatic%20biliary%20tree.obj"
+    },
+    {
+      "id": "FJ3110",
+      "file": "FJ3110.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3110_BP23126_FMA71869_Posterior%20superior%20tributary%20of%20right%20hepatic%20biliary%20tree.obj",
+      "sha256": "2200e296670a7481c0e2cdd32c8aa5898d5b552adf8c6e5f28f39cac51947367",
+      "bytes": 88283,
+      "mirrorPath": "meshes/FJ3110_BP23126_FMA71869_Posterior superior tributary of right hepatic biliary tree.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3110_BP23126_FMA71869_Posterior%20superior%20tributary%20of%20right%20hepatic%20biliary%20tree.obj"
+    },
+    {
+      "id": "FJ1896",
+      "file": "FJ1896.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1896_BP23800_FMA63103_Pancreatic%20duct%20tree.obj",
+      "sha256": "ac5cb45db6ed67caed60ffa1c592b40989e8290c5ef5c70e2858cae1a127f575",
+      "bytes": 344309,
+      "mirrorPath": "meshes/FJ1896_BP23800_FMA63103_Pancreatic duct tree.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1896_BP23800_FMA63103_Pancreatic%20duct%20tree.obj"
+    },
+    {
+      "id": "FJ2816",
+      "file": "FJ2816.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2816_BP23891_FMA13365_Caudate%20lobe%20of%20liver.obj",
+      "sha256": "40d49b0509bcc639a2f494da3b8570d4d240453208f12e7c05b7294e97ac5726",
+      "bytes": 316916,
+      "mirrorPath": "meshes/FJ2816_BP23891_FMA13365_Caudate lobe of liver.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2816_BP23891_FMA13365_Caudate%20lobe%20of%20liver.obj"
+    },
+    {
+      "id": "FJ2818",
+      "file": "FJ2818.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2818_BP22945_FMA15739_Hepatovenous%20segment%20II.obj",
+      "sha256": "2e6eb4656aa3a3e1e1bfde1e259da6afd5b2797b5767d1bcf5616e538853d967",
+      "bytes": 936031,
+      "mirrorPath": "meshes/FJ2818_BP22945_FMA15739_Hepatovenous segment II.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2818_BP22945_FMA15739_Hepatovenous%20segment%20II.obj"
+    },
+    {
+      "id": "FJ2819",
+      "file": "FJ2819.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2819_BP23896_FMA15741_Hepatovenous%20segment%20III.obj",
+      "sha256": "82ec45f966de3fdb2de31c7f19b9fb96ecaf52627e64429c8d17ff0d597771fc",
+      "bytes": 677401,
+      "mirrorPath": "meshes/FJ2819_BP23896_FMA15741_Hepatovenous segment III.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2819_BP23896_FMA15741_Hepatovenous%20segment%20III.obj"
+    },
+    {
+      "id": "FJ2820",
+      "file": "FJ2820.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2820_BP22976_FMA15742_Hepatovenous%20segment%20IV.obj",
+      "sha256": "6e3ff56f2a6538a7964eb0a0764f45df2ef425a4921c11c93d399e33390e8d1b",
+      "bytes": 1295681,
+      "mirrorPath": "meshes/FJ2820_BP22976_FMA15742_Hepatovenous segment IV.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2820_BP22976_FMA15742_Hepatovenous%20segment%20IV.obj"
+    },
+    {
+      "id": "FJ2821",
+      "file": "FJ2821.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2821_BP22003_FMA15743_Hepatovenous%20segment%20V.obj",
+      "sha256": "db56694472aa9bb6171b1655dff06c1500d5630531f90a69d7afb4512871fd83",
+      "bytes": 793426,
+      "mirrorPath": "meshes/FJ2821_BP22003_FMA15743_Hepatovenous segment V.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2821_BP22003_FMA15743_Hepatovenous%20segment%20V.obj"
+    },
+    {
+      "id": "FJ2822",
+      "file": "FJ2822.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2822_BP19699_FMA15744_Hepatovenous%20segment%20VI.obj",
+      "sha256": "56ef3fa5c1cf92e6e214a7023983036c7b3f4ad873d67734735ebc44a501dc4b",
+      "bytes": 1281742,
+      "mirrorPath": "meshes/FJ2822_BP19699_FMA15744_Hepatovenous segment VI.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2822_BP19699_FMA15744_Hepatovenous%20segment%20VI.obj"
+    },
+    {
+      "id": "FJ2823",
+      "file": "FJ2823.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2823_BP23025_FMA15746_Hepatovenous%20segment%20VIII.obj",
+      "sha256": "0766bcc9d81de542c375481d670304269b69f9fde5b9f5af13b4a65051bf3108",
+      "bytes": 1284336,
+      "mirrorPath": "meshes/FJ2823_BP23025_FMA15746_Hepatovenous segment VIII.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2823_BP23025_FMA15746_Hepatovenous%20segment%20VIII.obj"
+    },
+    {
+      "id": "FJ2824",
+      "file": "FJ2824.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2824_BP23025_FMA15746_Hepatovenous%20segment%20VIII.obj",
+      "sha256": "66a2c62871e57a187e156b3616fc8218ab0fc4205b1f9ed3ea51d6d6068921e5",
+      "bytes": 1455956,
+      "mirrorPath": "meshes/FJ2824_BP23025_FMA15746_Hepatovenous segment VIII.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2824_BP23025_FMA15746_Hepatovenous%20segment%20VIII.obj"
+    },
+    {
+      "id": "FJ2573",
+      "file": "FJ2573.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2573_BP24104_FMA7206_Duodenum.obj",
+      "sha256": "4e864f74d938eca6d74a185539429c1d4bbb80a8b2add7f3662b34e406c85440",
+      "bytes": 112313,
+      "mirrorPath": "meshes/FJ2573_BP24104_FMA7206_Duodenum.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2573_BP24104_FMA7206_Duodenum.obj"
+    },
+    {
+      "id": "FJ1895",
+      "file": "FJ1895.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1895_BP22966_FMA63120_Parenchyma%20of%20pancreas.obj",
+      "sha256": "bf9a56c2b1012be4b95c33a9b2acafeda92db56a1515ea7f37677449f8bb4793",
+      "bytes": 307546,
+      "mirrorPath": "meshes/FJ1895_BP22966_FMA63120_Parenchyma of pancreas.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1895_BP22966_FMA63120_Parenchyma%20of%20pancreas.obj"
+    },
+    {
+      "id": "FJ3082",
+      "file": "FJ3082.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3082_BP23408_FMA71904_Pre-hepatic%20portal%20vein.obj",
+      "sha256": "1e13838c7d06cb0d21c8d3056ef0fb8e4edf1880164514043f6d4473d1186fae",
+      "bytes": 222078,
+      "mirrorPath": "meshes/FJ3082_BP23408_FMA71904_Pre-hepatic portal vein.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3082_BP23408_FMA71904_Pre-hepatic%20portal%20vein.obj"
+    },
+    {
+      "id": "FJ3078",
+      "file": "FJ3078.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3078_BP24054_FMA76536_Trunk%20of%20common%20hepatic%20artery.obj",
+      "sha256": "641608b734d447be3f596fc50b80144be67f778b4bd3125368ddef3db740df3f",
+      "bytes": 20296,
+      "mirrorPath": "meshes/FJ3078_BP24054_FMA76536_Trunk of common hepatic artery.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3078_BP24054_FMA76536_Trunk%20of%20common%20hepatic%20artery.obj"
+    },
+    {
+      "id": "FJ3081",
+      "file": "FJ3081.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3081_BP24024_FMA76548_Trunk%20of%20hepatic%20artery%20proper.obj",
+      "sha256": "a07f347b1e166a0e88c3ee699a4612fee2148fe8a93ae2ad57996f4a30a60031",
+      "bytes": 20481,
+      "mirrorPath": "meshes/FJ3081_BP24024_FMA76548_Trunk of hepatic artery proper.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3081_BP24024_FMA76548_Trunk%20of%20hepatic%20artery%20proper.obj"
+    },
+    {
+      "id": "FJ3117",
+      "file": "FJ3117.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3117_BP20946_FMA70456_Trunk%20of%20right%20hepatic%20artery.obj",
+      "sha256": "926be34f7161c5e3f8bbfc3cc1c434f485fc992339612cb9d1368753cd55ca7b",
+      "bytes": 25503,
+      "mirrorPath": "meshes/FJ3117_BP20946_FMA70456_Trunk of right hepatic artery.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3117_BP20946_FMA70456_Trunk%20of%20right%20hepatic%20artery.obj"
+    },
+    {
+      "id": "FJ3095",
+      "file": "FJ3095.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3095_BP22203_FMA70457_Trunk%20of%20left%20hepatic%20artery.obj",
+      "sha256": "8ecf9a21fb5dcea990371eab85b069136d5b005e8180ccad75c8ba392b352578",
+      "bytes": 78138,
+      "mirrorPath": "meshes/FJ3095_BP22203_FMA70457_Trunk of left hepatic artery.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3095_BP22203_FMA70457_Trunk%20of%20left%20hepatic%20artery.obj"
+    }
+  ]
+}
