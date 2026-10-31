@@ -3,8 +3,10 @@ import { useFrame, useThree, type ThreeEvent } from '@react-three/fiber'
 import {
   Box3,
   Color,
+  DoubleSide,
   Group,
   Mesh,
+  MeshBasicMaterial,
   MeshStandardMaterial,
   PerspectiveCamera,
   Spherical,
@@ -190,6 +192,24 @@ function ghostColor(color: string) {
   return value
 }
 
+// A translucent context organ is drawn as one clean layer: a depth-only copy
+// renders first, so only its nearest surface takes colour. Without it the
+// liver's segment walls and far side stack into dark bands. Opaque ducts are
+// drawn before both passes, so they still show through.
+const depthOnly = new MeshBasicMaterial({ colorWrite: false, side: DoubleSide, transparent: true })
+function depthPrepass(mesh: Mesh, enabled: boolean) {
+  let prepass = mesh.userData.depthPrepass as Mesh | undefined
+  if (enabled && !prepass) {
+    prepass = new Mesh(mesh.geometry, depthOnly)
+    prepass.raycast = () => {}
+    prepass.renderOrder = 1
+    mesh.userData.depthPrepass = prepass
+    mesh.add(prepass)
+  }
+  if (prepass) prepass.visible = enabled
+  mesh.renderOrder = enabled ? 2 : 0
+}
+
 function Model({
   model,
   selected,
@@ -211,10 +231,11 @@ function Model({
       material.emissiveIntensity = state === 'selected' ? 0.35 : 0
       const translucent = state === 'ghosted' || state === 'context'
       material.transparent = translucent
-      material.opacity = state === 'ghosted' ? 0.22 : state === 'context' ? 0.3 : 1
+      material.opacity = state === 'ghosted' ? 0.22 : state === 'context' ? 0.4 : 1
       material.depthWrite = !translucent
       material.roughness = 0.58
       material.needsUpdate = true
+      depthPrepass(object, state === 'context' && object.visible)
     })
     invalidate()
   }, [model, selected, hidden, invalidate])
